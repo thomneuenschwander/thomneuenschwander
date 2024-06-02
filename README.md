@@ -8,6 +8,11 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomneuenschwander&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomneuenschwander&layout=compact&langs_count=6&theme=dracula"/>
 </div>
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thomneuenschwander&theme=dracula)
+
+</div>
 <br>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thomneuenschwander&theme=dracula&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
