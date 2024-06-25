@@ -27,7 +27,7 @@
 ### Main
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven&perline=10)](https://skillicons.dev)
 
-### 👨‍💻 Studying in this moment:
+### 👨‍💻 Studying:
 
 [![Tools](https://skillicons.dev/icons?i=py,linux,bash,wordpress&perline=10)](https://skillicons.dev)
 
