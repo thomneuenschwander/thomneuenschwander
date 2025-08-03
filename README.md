@@ -24,24 +24,19 @@
 <a href="https://www.linkedin.com/in/thomas-neuenschwander-87a568267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=F8F8F2" target="_blank"></a>
 </div> 
  
-### Main
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven&perline=10)](https://skillicons.dev)
+### 🥶 Main
+[![My Skills](https://skillicons.dev/icons?i=linux,postgres,java,spring,react,materialui&perline=10)](https://skillicons.dev)
 
 ### 👨‍💻 Studying:
 
-[![Tools](https://skillicons.dev/icons?i=py,linux,bash,wordpress&perline=10)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=nextjs,raspberrypi,bash,docker,kubernetes&perline=10)](https://skillicons.dev)
 
 ### 🤖 Other Knowledge:
 
-[![Tools](https://skillicons.dev/icons?i=c,js,ts,react,postgres&perline=10)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=py,c,md,maven,vite,tailwind,ts,nodejs,express,prisma,&perline=10)](https://skillicons.dev)
 
 ### 🛠 Tools:
 
-[![Tools](https://skillicons.dev/icons?i=vscode,git,github,windows&perline=10)](https://skillicons.dev)
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ThomNeuenschwander}/count.svg"/></p> 
-<br></div>
+[![Tools](https://skillicons.dev/icons?i=ubuntu,vscode,obsidian,git,github,postman&perline=10)](https://skillicons.dev)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=120&section=footer"/>
